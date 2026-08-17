@@ -4,12 +4,10 @@
 
 <div align="center">
   <a href="https://atoposlibra.top"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://space.bilibili.com/350371091"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 </div>
 
 &emsp;&emsp;  
 
-My![Visitor Count](https://profile-counter.glitch.me/Ruinwalker1/count.svg)  visitor
 ## 🙋 Hello
 
 <p>✍️&nbsp;&nbsp;I'am Chen</p>
