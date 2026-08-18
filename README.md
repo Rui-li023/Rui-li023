@@ -6,7 +6,8 @@
   <a href="https://rui-li023.github.io/"><img src="https://img.shields.io/badge/Homepage-%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-1f6feb?style=flat-square&logo=githubpages&logoColor=white"></a>&emsp;
   <a href="https://atoposlibra.top"><img src="https://img.shields.io/badge/Blog-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-ff6f00?style=flat-square&logo=rss&logoColor=white"></a>&emsp;
   <a href="mailto:lirui.work0@gmail.com"><img src="https://img.shields.io/badge/Email-lirui.work0%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white"></a>&emsp;
-  <a href="https://github.com/Rui-li023"><img src="https://img.shields.io/github/followers/Rui-li023?style=flat-square&logo=github&label=Followers&color=24292e"></a>
+  <a href="https://github.com/Rui-li023"><img src="https://img.shields.io/github/followers/Rui-li023?style=flat-square&logo=github&label=Followers&color=24292e"></a>&emsp;
+  <img src="https://komarev.com/ghpvc/?username=Rui-li023&style=flat-square&color=1f6feb&label=Profile+Views">
 </div>
 
 &emsp;&emsp;
@@ -52,21 +53,47 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
 
-<div align="center" >
+<br>
 
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rui-li023&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rui-li023&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rui-li023&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
+<div align="center">
+
+<!-- 贪吃蛇：每 12 小时由 GitHub Action 重新生成，把我的 contribution 格子吃掉 -->
+<h3>🐍 A snake eating my contribution grid</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rui-li023/Rui-li023/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rui-li023/Rui-li023/output/snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rui-li023/Rui-li023/output/snake.svg" width="100%" />
+</picture>
+
+<br><br>
+
+<!-- 活动折线图 -->
+<h3>📈 Contribution activity</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rui-li023&bg_color=00000000&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=58a6ff&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rui-li023&bg_color=00000000&color=24292f&title_color=0969da&line=0969da&point=0969da&area=true&area_color=0969da&hide_border=true" />
+  <img alt="contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rui-li023&bg_color=00000000&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=58a6ff&hide_border=true" width="100%" />
+</picture>
+
+<br><br>
 
 <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rui-li023&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rui-li023&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+<h3>📊 GitHub stats</h3>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rui-li023&theme=transparent" width="98%" alt="profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rui-li023&theme=transparent" height="185" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rui-li023&theme=transparent&utcOffset=8" height="185" alt="productive time" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rui-li023&theme=transparent" height="185" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rui-li023&theme=transparent" height="185" alt="most commit language" />
+
+<br><br>
+
+<a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="dev quote" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:2e7d32&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
